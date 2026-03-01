@@ -1,0 +1,8 @@
+[wrap-git]
+directory = llibs
+url = git@github.com:ElverseProjects/llibs.git
+revision = master
+depth = 1
+
+[provide]
+dependency_names = llibs_dep
